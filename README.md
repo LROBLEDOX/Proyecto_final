@@ -38,5 +38,17 @@ Visualización de distribuciones
 <img src="screenshots/graficos.png" width="800">
 
 ⚙️ Instrucciones de ejecución
-1️⃣ Clonar el repositorio
+1️⃣ Clonar el repositorio: Abre una terminal o consola y ejecuta:
+git clone https://github.com/LROBLEDOX/Proyecto_final.git
+2️⃣ Entrar a la carpeta del proyecto
+cd Proyecto_final
+3️⃣ Instalar las dependencias necesarias: Instala las librerías utilizadas en el proyecto
+pip install streamlit pandas numpy matplotlib seaborn
+4️⃣ Ejecutar la aplicación: en la misma terminal ejecuta
+streamlit run app.py
+5️⃣ Abrir la aplicación en el navegador: streamlit iniciará el servidor automáticamente y podrá acceder a la aplicación.
+
+Links relevantes:
+
+https://streamlit-emoji-shortcodes-streamlit-app-gwckff.streamlit.app/
 
