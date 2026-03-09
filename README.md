@@ -36,3 +36,7 @@ Exploración de datos
 Visualización de distribuciones
 
 <img src="screenshots/graficos.png" width="800">
+
+⚙️ Instrucciones de ejecución
+1️⃣ Clonar el repositorio
+
