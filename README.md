@@ -58,4 +58,3 @@ Links relevantes:
 https://streamlit-emoji-shortcodes-streamlit-app-gwckff.streamlit.app/
 
 Repositorio del proyecto: https://github.com/LROBLEDOX/Proyecto_final.git
-
