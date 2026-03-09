@@ -1,6 +1,7 @@
-st-gsheets-connection
 streamlit
-plotly
 pandas
-openpyxl
+numpy
+matplotlib
+seaborn
+io
 
