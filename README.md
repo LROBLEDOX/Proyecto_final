@@ -24,4 +24,9 @@ Segmentación Estratégica: Comparativa de éxito por nivel educativo, estado ci
 Explorador de Datos: Filtros dinámicos que permiten aislar grupos de edad y variables específicas para consultas rápidas.
 
 📸 Capturas de la aplicación
-
+Pantalla principal
+<img src="screenshots/presentacion.png" width="800">
+Exploración de datos
+<img src="screenshots/eda.png" width="800">
+Visualización de distribuciones
+<img src="screenshots/graficos.png" width="800">
